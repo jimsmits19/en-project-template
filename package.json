@@ -1,0 +1,22 @@
+{
+  "name": "en-project-template",
+  "version": "1.0.0",
+  "description": "Just a template to be used for projects built with node, elastic and mocha.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimsmits19/en-project-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimsmits19/en-project-template/issues"
+  },
+  "homepage": "https://github.com/jimsmits19/en-project-template#readme"
+}
